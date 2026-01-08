@@ -4,5 +4,3 @@ type: package
 target: MQL5
 organization: knitpkg.dev
 description: KnitPkg showcase 2 - GitHub
-
-compile: {}
