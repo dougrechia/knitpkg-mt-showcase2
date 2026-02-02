@@ -1,6 +1,6 @@
 name: knitpkg-mt-showcase2
 version: 1.0.0
 type: package
-target: MQL5
+target: mql5
 organization: dougrechia
 description: KnitPkg showcase 2 - GitHub
